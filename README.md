@@ -15,3 +15,13 @@
 - 🧭 Navigation using Compose's NavHost
 
 ## 🛠️ Tech Stack
+
+- **Jetpack Compose** – Modern UI toolkit for Android
+- **Room** – Local database storage
+- **Kotlin Coroutines & StateFlow** – Asynchronous and reactive programming
+- **KSP** – Kotlin Symbol Processing (for Room)
+- **Jetpack Navigation** – Screen transitions in Compose
+- **Material 3** – Clean, modern UI components
+- **OMDb API** – Movie data source
+
+## 📦 Architecture
