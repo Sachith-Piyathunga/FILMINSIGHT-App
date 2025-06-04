@@ -25,3 +25,9 @@
 - **OMDb API** – Movie data source
 
 ## 📦 Architecture
+
+- Follows **MVVM (Model-View-ViewModel)** pattern
+- Uses **Repository pattern** for clean data access
+- All screens are built as **Composable functions** inside a single-activity architecture
+
+## 🖥️ Screens
