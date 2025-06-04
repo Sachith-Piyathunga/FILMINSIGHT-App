@@ -40,3 +40,17 @@
 - View Movie Details
 
 ## 🧪 Testing
+
+- JUnit for unit testing
+- Compose UI testing tools
+- Debug preview support
+
+## 📷 Preview
+
+> Add screenshots or demo GIFs here (optional)
+
+
+---
+
+**Made with 💻 using Kotlin + Jetpack Compose**
+"""
