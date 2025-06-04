@@ -31,3 +31,12 @@
 - All screens are built as **Composable functions** inside a single-activity architecture
 
 ## 🖥️ Screens
+
+- Home Screen
+- Add Movies (inserts predefined data into Room)
+- Search Movies (OMDb API)
+- Search Actors (Room)
+- Search Movies by Title (multiple results from API)
+- View Movie Details
+
+## 🧪 Testing
