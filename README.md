@@ -59,6 +59,10 @@
 
 ![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/340b2b982449e0a7f3bd14cb27b6d36002a87f8e/PNG/movies.png)
 
+### Search Actors Screen
+
+![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/f4c626da73384730750f568a9f3c49b94efe79ee/PNG/actor.png)
+
 ---
 
 **Made with 💻 using Kotlin + Jetpack Compose**
