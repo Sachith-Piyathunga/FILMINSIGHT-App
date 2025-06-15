@@ -55,6 +55,10 @@
 
 ![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/393a8330b5d70d8e65d64ec7c545c7cbe872d099/PNG/movie.png)
 
+### Search Movies Screen
+
+![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/340b2b982449e0a7f3bd14cb27b6d36002a87f8e/PNG/movies.png)
+
 ---
 
 **Made with 💻 using Kotlin + Jetpack Compose**
