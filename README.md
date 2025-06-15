@@ -47,8 +47,9 @@
 
 ## 📷 Preview
 
-> Add screenshots or demo GIFs here (optional)
+### Home Screen
 
+![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/53ed9a39355e8135d9595d01e4051c1e5c9bc41f/PNG/mainscreen.png)
 
 ---
 
