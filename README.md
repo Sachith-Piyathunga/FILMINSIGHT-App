@@ -63,6 +63,10 @@
 
 ![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/f4c626da73384730750f568a9f3c49b94efe79ee/PNG/actor.png)
 
+### Movies Database
+
+![image alt](https://github.com/Sachith-Piyathunga/FILMINSIGHT-App/blob/ba3ec25adced7e91c29dd183f1dd6f19dc381fe8/PNG/rommDB.png)
+
 ---
 
 **Made with 💻 using Kotlin + Jetpack Compose**
